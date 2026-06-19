@@ -1,15 +1,10 @@
-Capsule-render में `waving` टाइप इमेज के साथ मल्टी-कलर कोडिंग और गलत एनिमेशन पैरामीटर (`fadeIn`) के कारण सर्वर एरर आ रहा था, जिससे इमेज ब्लैंक शो हो रही थी।
-
-मैंने इसे बदलकर **100% वर्किंग और स्टेबल** यूआरएल से रिप्लेस कर दिया है। अब यह बिना किसी लैग या एरर के लोड होगी। पूरा कोड नीचे दिए गए कोड बॉक्स से कॉपी कर लें:
-
-````markdown
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     PREMIUM DYNAMIC HEADER                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=DINESH%20SINDHAV&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=DINESH%20SINDHAV&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa&cache=1" width="100%"/>
 
 <br/>
 
@@ -235,7 +230,7 @@ dinesh@developer:~$ ./mission.sh
 <!--                   FOOTER DESIGN                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=120&section=footer&cache=1" width="100%"/>
 
 <br/>
 
@@ -246,4 +241,3 @@ dinesh@developer:~$ ./mission.sh
 [![Profile Visits](https://visitcount.itsvg.in/api?id=sindhavdinesh&label=Profile+Visits&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
-````
