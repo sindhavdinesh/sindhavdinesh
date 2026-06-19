@@ -26,19 +26,50 @@
 </picture>
 ---
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-```javascript
-const dinesh = {
-  name:        "Dinesh Sindhav",
-  university:  "Vidyadeep University",
-  role:        "Full Stack Developer (Learning Mode: ON 🚀)",
-  currentWork: ["C Language Projects", "Web Dev (HTML/CSS/JS)"],
-  learning:    ["React", "Node.js", "Git & GitHub"],
-  lookingFor:  "Beginner-friendly Open Source Projects",
-  askMeAbout:  ["C Programming", "Web Dev Basics", "GitHub"],
-  funFact:     "I turn ☕ into code and bugs into features!",
-  motto:       "Build. Break. Learn. Repeat. 🔁"
-};
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+```bash
+┌──(dinesh㉿universe)-[~/life]
+└─$ whoami
+```
+```
+▶  Dinesh Sindhav — Developer. Dreamer. Builder.
+```
+```bash
+┌──(dinesh㉿universe)-[~/life]
+└─$ cat mission.txt
+```
+```
+🔥  I don't wait for opportunities — I build them.
+💡  Every line of code I write is a step toward mastery.
+🚀  Started from scratch. Heading to the stars.
+```
+```bash
+┌──(dinesh㉿universe)-[~/life]
+└─$ cat status.log
+```
+```
+[✔] University     →  Vidyadeep University
+[✔] Current Stack  →  C | Java | HTML | CSS | JS | React
+[✔] Learning Now   →  Full Stack Dev | Git | React | Node.js
+[✔] Open To        →  Beginner-friendly Open Source Projects
+[✔] Superpower     →  Turning bugs into features since day 1 💪
+```
+```bash
+┌──(dinesh㉿universe)-[~/life]
+└─$ cat motto.sh
+```
+```bash
+while [ alive ]; do
+    learn()  { absorb everything around you;   }
+    build()  { ship it, even if it's not perfect; }
+    fail()   { get up faster than you fell;     }
+    repeat() { because greatness is a habit;    }
+done
+# OUTPUT → Unstoppable Developer 🏆
+```
+```bash
+┌──(dinesh㉿universe)-[~/life]
+└─$ █
 ```
 <br clear="right"/>
 ---
