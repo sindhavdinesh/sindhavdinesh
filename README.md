@@ -4,7 +4,7 @@
 <!--                     PREMIUM DYNAMIC HEADER                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=DINESH%20SINDHAV&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa&cache=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=DINESH%20SINDHAV&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa&cache=2" width="100%"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&height=60&lines=🚀+Architecting+the+Digital+Future;💻+C+%7C+Java+%7C+JavaScript+%7C+React+%7C+Node.js;🔥+Full+Stack+Developer+in+Making;⚡+Turning+Coffee+into+Production-Ready+Code;🏆+Dream+Big.+Code+Hard.+Ship+It+Every+Day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&height=60&lines=%F0%9F%9A%80%20Architecting%20the%20Digital%20Future%3B%F0%9F%92%BB%20C%20%7C%20Java%20%7C%20JavaScript%20%7C%20React%20%7C%20Node.js%3B%F0%9F%94%A5%20Full%20Stack%20Developer%20in%20Making%3B%E2%9A%A1%20Turning%20Coffee%20into%20Production-Ready%20Code%3B%F0%9F%8F%86%20Dream%20Big.%20Code%20Hard.%20Ship%20It%20Every%20Day." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -230,14 +230,15 @@ dinesh@developer:~$ ./mission.sh
 <!--                   FOOTER DESIGN                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=120&section=footer&cache=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=120&section=footer&cache=2" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2000&color=7c3aed&center=true&vCenter=true&width=550&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Let's+grow+together+in+this+journey;🔥+Built+with+passion+by+Dinesh+Sindhav" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2000&color=7c3aed&center=true&vCenter=true&width=550&lines=%E2%AD%90%20Star%20my%20repos%20if%20you%20find%20them%20useful!%3B%F0%9F%A4%9D%20Let's%20grow%20together%20in%20this%20journey%3B%F0%9F%94%A5%20Built%20with%20passion%20by%20Dinesh%20Sindhav" alt="Footer typing"/>
 
 <br/>
 
-[![Profile Visits](https://visitcount.itsvg.in/api?id=sindhavdinesh&label=Profile+Visits&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<!-- 100% active and ultra-stable hits counter -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsindhavdinesh&title=Profile+Visits&edge_flat=false" alt="Profile Visits"/>
 
 </div>
