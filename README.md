@@ -4,7 +4,7 @@
 <!--                     PREMIUM DYNAMIC HEADER                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=DINESH%20SINDHAV&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa&cache=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=DINESH%20SINDHAV&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa&cache=3" width="100%"/>
 
 <br/>
 
@@ -23,9 +23,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sindhavdinesh&label=👁️+PROFILE+VISITS&color=7c3aed&style=for-the-badge&labelColor=0d0221" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sindhavdinesh&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&labelColor=0d0221" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/sindhavdinesh?label=👥+FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=0d0221" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/sindhavdinesh?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=0d0221&logo=github" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/🎯_FOCUS-FULL_STACK_DEV-7c3aed?style=for-the-badge&labelColor=0d0221" alt="Focus"/>
   &nbsp;
@@ -230,7 +230,7 @@ dinesh@developer:~$ ./mission.sh
 <!--                   FOOTER DESIGN                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=120&section=footer&cache=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=120&section=footer&cache=3" width="100%"/>
 
 <br/>
 
@@ -238,7 +238,7 @@ dinesh@developer:~$ ./mission.sh
 
 <br/>
 
-<!-- 100% active and ultra-stable hits counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsindhavdinesh&title=Profile+Visits&edge_flat=false" alt="Profile Visits"/>
+<!-- Stable Visitor Count Badge -->
+<img src="https://komarev.com/ghpvc/?username=sindhavdinesh&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile Visits"/>
 
 </div>
