@@ -1,3 +1,6 @@
+यहाँ आपका पूरा README.md का कोड है। आप इसे नीचे दिए गए कोड बॉक्स से आसानी से कॉपी कर सकते हैं:
+
+```markdown
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -173,6 +176,11 @@ dinesh@developer:~$ ./mission.sh
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sindhavdinesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
+
+  <br/><br/>
+
+  <!-- User Achievement Image -->
+  <img src="./achievements.jpg" width="70%" alt="Achievements and Trophies Showcase"/>
 </div>
 
 ---
@@ -242,3 +250,4 @@ dinesh@developer:~$ ./mission.sh
 <img src="https://komarev.com/ghpvc/?username=sindhavdinesh&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile Visits"/>
 
 </div>
+```
