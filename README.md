@@ -4,7 +4,7 @@
 <!--                     PREMIUM DYNAMIC HEADER                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=DINESH%20SINDHAV&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa&cache=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0221&height=240&section=header&text=SINDHAV%20DINESH&fontSize=75&fontColor=c084fc&animation=twinkling&fontAlignY=38&stroke=7c3aed&strokeWidth=2.5&desc=⚡%20Code%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=18&descColor=a78bfa&cache=3" width="100%"/>
 
 <br/>
 
