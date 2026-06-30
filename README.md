@@ -138,7 +138,7 @@ dinesh@developer:~$ ./mission.sh
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=sindhavdinesh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_color=7c3aed" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sindhavdinesh&theme=tokyonight&hide_border=true&background=0d0221&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff" width="49%"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=sindhavdinesh&theme=tokyonight&hide_border=true&background=0d0221&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff" width="49%"/>
 
 <br/><br/>
