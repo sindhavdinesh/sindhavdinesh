@@ -138,18 +138,14 @@ dinesh@developer:~$ ./mission.sh
 
 <div align="center">
 
-<!-- standard github readme stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sindhavdinesh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_color=7c3aed" width="49%"/>
-<!-- standard github readme streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhavdinesh&theme=tokyonight&hide_border=true&background=0d0221&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sindhavdinesh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_color=7c3aed" width="49%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=sindhavdinesh&theme=tokyonight&hide_border=true&background=0d0221&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff" width="49%"/>
 
 <br/><br/>
 
-<!-- standard top languages card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhavdinesh&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&langs_count=8" width="55%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sindhavdinesh&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&langs_count=8" width="55%"/>
 
 </div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
