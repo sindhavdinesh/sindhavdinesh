@@ -146,7 +146,7 @@ dinesh@developer:~$ ./mission.sh
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sindhavdinesh&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&langs_count=8" width="55%"/>
 
 </div>
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION TIMELINE                        -->
